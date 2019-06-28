@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'db915dc2b12e4019bbe476edbcaa6d9f.vfs.cloud9.us-east-1.amazonaws.com', 'blog-test-app.herokuapp.com'
+    'db915dc2b12e4019bbe476edbcaa6d9f.vfs.cloud9.us-east-1.amazonaws.com', 'js-blog-test-app.herokuapp.com'
 ]
 
 
